@@ -1,0 +1,67 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Great Gatsby mw eee",
+      "author": "F. Scott Fitzgerald",
+      "description": "A classic novel set in the Jazz Age.",
+      "read": true
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "description": "A story of racial injustice in the Deep South.",
+      "read": true
+    },
+    {
+      "id": "cf98",
+      "title": "1984",
+      "author": "George Orwell e",
+      "description": "A dystopian novel about totalitarianism.",
+      "read": false
+    },
+    {
+      "id": "dd6f",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "description": "A romantic novel about manners and marriage.",
+      "read": true
+    },
+    {
+      "id": "cfdb",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "description": "A coming-of-age story of teenage rebellion.",
+      "read": true
+    },
+    {
+      "id": "323d",
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "description": "A tale of obsession and revenge on the high seas.",
+      "read": true
+    },
+    {
+      "id": "3431",
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "description": "A historical novel about Napoleon's invasion of Russia.",
+      "read": false
+    },
+    {
+      "id": "5b8a",
+      "title": "e",
+      "author": "e",
+      "description": "e",
+      "read": false
+    },
+    {
+      "id": "41c4",
+      "title": "retoi",
+      "author": "gewt",
+      "description": "tete",
+      "read": false
+    }
+  ]
+}
